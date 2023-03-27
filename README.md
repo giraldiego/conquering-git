@@ -25,3 +25,5 @@ He has been using Git extensively to handle his everyday projects with Git.
 ## Who this course is for:
 
     This Git guide is designed for developers who have a basic knowledge of Git and want to go beyond a basic tutorial. This video series includes details on Git that would be valuable to seasoned veterans with previous knowledge or experience in Git as well as to newcomers to this technology.
+
+[Source](https://www.udemy.com/course/conquering-git-advanced-training-guide/)
